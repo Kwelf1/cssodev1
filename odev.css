@@ -1,0 +1,21 @@
+body {
+    background-color: darksalmon;
+}
+h1, h2 {
+    color: red ;font-family: 'Roboto', sans-serif;
+}
+.linkler {
+    padding-bottom: 15px;
+}
+#anasayfa {
+    padding-right: 10px;
+}
+#ürünlerimiz {
+    padding-right: 10px;
+}
+#anasayfayazisi {
+    color: aqua; font-family: 'Roboto', sans-serif;
+}
+#liste {
+    color: darkblue; font-size: 17px;
+}
